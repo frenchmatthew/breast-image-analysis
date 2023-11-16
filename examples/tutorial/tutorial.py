@@ -6,7 +6,7 @@ Authors: Your name
 Your organisation
 """
 
-import python_module
+import bia
 
 def main(cfg, test=False):
 
